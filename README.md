@@ -16,7 +16,7 @@ Using the mock data which we will provide you will create:
 * A client facing dashboard which will resemble a functional dashboard which allows a typical client of Pareto Economics to see, select and interact with the data we will provide to you.These should include mock tabs, a professional appearance to the dashboard and functionality you think a client in the government, corporate and investment sector would like to see.
 * You will also create a number of visualisations and analysis on the mock data with corresponding conclusions you think are interesting and useful to draw for the above client archetype. These can include cross regional/cross index trends, intra-regional trends and forecasting assumptions on the data. These will be presented in a PDF format with light to medium level of analysis on each visualisation which allows the client to better understand what the visualisations mean and why it is useful to them.
 
-Dataset: [Mock Data](https://www.google.com/url?sa=D&q=Mock%2520Data%2520Hackathon.xlsx&ust=1668455460000000&usg=AOvVaw1DaMogT2Jpwg7T0pHuYZUE&hl=en&source=gmail)
+Dataset: [Mock Data](https://github.com/thinkgradient/global-power-hackathon/blob/main/Mock%20Data%20Hackathon.xlsx)
 
 ***Top Tip:*** When creating the dashboard, it is important to see examples of what exists already online so do your research, also feel free to take advantage of interviewing the judges as to what they think a dashboard should include and the functionality.
 
@@ -97,7 +97,7 @@ Oil, Gas, Gold, Iron, Copper, Aluminium, Zinc, Manganese, Lead, Nickel, Silver, 
 
 ***Dataset:***
 
-[Commodities list](https://www.google.com/url?sa=D&q=commodities%2520list.xlsx&ust=1668455520000000&usg=AOvVaw0_Zrpc0EpWenTKCdqcfVgw&hl=en&source=gmail)
+[Commodities list](https://github.com/thinkgradient/global-power-hackathon/blob/main/commodities%20list.xlsx)
 
 ***Bonus Points:***
 
